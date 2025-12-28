@@ -1,0 +1,11 @@
+ID|Tên|NgàySinh
+1|Alice Johnson|2000-01-15
+2|Bob Smith|2000-03-22
+3|Charlie Brown|2001-05-10
+4|Diana Prince|2000-07-18
+5|Evan Wilson|2001-02-28
+6|Fiona Green|2000-09-05
+7|George Harris|2001-11-12
+8|Hannah White|2000-04-30
+9|Isaac Newton|2001-06-14
+10|Julia Martinez|2000-08-25

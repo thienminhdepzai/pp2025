@@ -1,0 +1,11 @@
+ID|Tên|TinChi
+101|Mathematics|3
+102|Physics|3
+103|Chemistry|3
+104|Biology|3
+105|English|3
+106|History|3
+107|Geography|3
+108|Computer Science|3
+109|Physical Education|3
+110|Art & Design|3
